@@ -1,0 +1,19 @@
+html{
+    height: 100vh;
+
+}
+body{
+    
+    background: linear-gradient(to bottom,blue, white) !important;  
+}
+
+.main-container{
+    width: 30%;
+    height: 100%;
+    margin: 10px auto;
+    background-color: beige;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 0 10px 10px 0 black;
+    
+}
